@@ -2,7 +2,7 @@
 
 - I’m currently learning **Verilog/SystemVerilog and RTL/ASIC/Physical/AMS Design**
 
-- How to reach me **nguyenhoaitrong1505@hotmail.com**
+- How to reach me **nguyenhoaitrong1505@gmail.com**
 
 
 
